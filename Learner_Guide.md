@@ -47,6 +47,10 @@ Mac OSX: [Guide](https://pimylifeup.com/install-apache-on-macos/)
 
 More help: [Guide](https://opensource.com/article/18/2/apache-web-server-configuration)
 
+### RegEx
+
+RegEx in PHP: [Guide](https://www.w3schools.com/php/php_regex.asp)
+
 I reccomend using [Stackoverflow](https://stackoverflow.com/) in case you run into any issues there is a good chance someone else has experienced it.
 
 ### Basic knowledge of programming and PHP syntax

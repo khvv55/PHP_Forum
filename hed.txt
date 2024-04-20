@@ -1,0 +1,25 @@
+<head>
+<link rel="stylesheet" href="style">
+<meta name="viewport" content="width=1500, initial-scale=1.0">
+</head>
+<div class="topBar">
+<div class="Nav_Bar">
+    <ul>
+	<li><a class="titleLink" style="height:50px; line-height: 50px;" href="/" class="current">₮H̶ⱤIƑ₮</a></li>
+
+	
+        <li><a class="navbar" style="height:50px; line-height: 50px;" href="/home" class="current">Home</a></li>
+
+            <li><a class="navbar" style="height:50px; line-height: 50px; " href="/listings">Listings</a></li>
+
+            <li><a class="navbar" style="height:50px; line-height: 50px;" href="/account" >Account</a></li>
+
+            <li><a class="navbar" style="height:50px; line-height: 50px;" href="/logout" title="Bye">Logout</a></li>
+    </ul>
+</div>
+<hr>
+<div class="navbarleft">
+<a href="/favlist" class="fav">Favorites</a>
+</div>
+</div>
+<br><br><br><br><br><br>
